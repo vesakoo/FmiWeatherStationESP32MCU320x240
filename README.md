@@ -22,7 +22,7 @@ Forecast format:
 ```
 Where hour is 01:00:00 given on your local time.
 
-![alt text](https://github.com/vesakoo/FmiWeatherStationESP32S3/blob/main/images/display.jpg?raw=true)
+![alt text](https://github.com/vesakoo/FmiWeatherStationESP32MCU320x240/blob/main/images/display.jpg?raw=true)
 
 
 
